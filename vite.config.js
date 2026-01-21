@@ -5,7 +5,7 @@ import { defineConfig } from 'vite'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ecommerce-react-v2/', // 🔴 খুব গুরুত্বপূর্ণ
+  base: '/salinaka/', // ✅ repo নামের সাথে SAME
   resolve: {
     alias: {
       '@': path.resolve(__dirname, 'src')
