@@ -1,13 +1,11 @@
-# Salinaka | E-commerce react app
+<img width="1902" height="901" alt="image" src="https://github.com/user-attachments/assets/63dea73f-5b82-4948-bbb9-f8c28bc55afc" /># Salinaka | E-commerce react app
 Simple ecommerce react js app with firebase [typescript].
 ![Firebase Deploy](https://github.com/jgudo/ecommerce-react/workflows/Firebase%20Deploy/badge.svg)
 
 ### [Live demo](http://localhost:3000/)
 
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny1.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny2.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny3.png)
-![Salinaka screenshot](https://raw.githubusercontent.com/jgudo/ecommerce-react/master/static/screeny7.png)
+![Salinaka screenshot]("C:\Users\hasib\OneDrive\Pictures\Screenshots\Screenshot 2026-01-21 211918.png")
+
 
 ## Run Locally
 ### 1. Install Dependencies
